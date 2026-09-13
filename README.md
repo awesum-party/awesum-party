@@ -1,9 +1,15 @@
 <p align="center">
-<img src="https://file.garden/alqc1dqplE9QfpOY/Untitled324_20260912185342.png" width="450">
+<img src="https://file.garden/alqc1dqplE9QfpOY/Untitled309_20260913154626.webp" width="450">
 </p>
 
 <p align="center">
+　
+</p>
 
- 　　　　　　　　　　　　　　　　　　　　　　　　　　　 [atabook](https://party-noob.atabook.org/)　　[strawpage](https://ribbon-gun.straw.page/)
+  　　　　　　　　　　　　　　　　　　　　　　[![Atabook](https://file.garden/alqc1dqplE9QfpOY/Untitled328_20260913162251.png)](https://party-noob.atabook.org/)　　[![Strawpage](https://file.garden/alqc1dqplE9QfpOY/Untitled327_20260913161942.png)](https://ribbon-gun.straw.page/)
 
+</p>
+
+<p align="center">
+　
 </p>
